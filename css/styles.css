@@ -14,9 +14,6 @@ img {
   padding: 4px;
   background-color: lightblue;
 }
-body {
-  background-color: green;
-}
 .column {
   text-align: left;
 }
@@ -28,4 +25,11 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
 
+}
+.spaceup2 {
+  padding-top: 480px;
+
+}
+.side {
+  padding-right: 750px;
 }
