@@ -8,3 +8,24 @@
 img {
   line-height: 2000;
 }
+.boxmodel {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: lightblue;
+}
+body {
+  background-color: green;
+}
+.column {
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+}
+.spaceup {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
